@@ -1,10 +1,10 @@
 # Código de ejemplo para consultar servicio SOAP de pedidos sanos
 
-*Este código se realizó siguiendo esta guia :
+Este código se realizó siguiendo esta guia :
 
 ![Consumir servicios SOAP Spring](https://spring.io/guides/gs/consuming-web-service/)
 
-#Instrucciones para ejecutar
+Instrucciones para ejecutar
 
 * Para compilar Ejecutar el comando gradle bootrun ( se requiere tener instalado gradle)
 
