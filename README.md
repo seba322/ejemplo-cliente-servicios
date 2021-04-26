@@ -2,7 +2,7 @@
 
 Este código se realizó siguiendo esta guia :
 
-![Consumir servicios SOAP Spring](https://spring.io/guides/gs/consuming-web-service/)
+https://spring.io/guides/gs/consuming-web-service/
 
 Instrucciones para ejecutar
 
