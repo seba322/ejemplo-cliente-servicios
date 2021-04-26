@@ -1,0 +1,6 @@
+com/example/consumingwebservice/PaymentClient.java
+ com.example.consumingwebservice.PaymentClient
+com/example/consumingwebservice/PaymentConfiguration.java
+ com.example.consumingwebservice.PaymentConfiguration
+com/example/consumingwebservice/ConsumingWebServiceApplication.java
+ com.example.consumingwebservice.ConsumingWebServiceApplication
